@@ -1,0 +1,16 @@
+##########
+# bugout / get home bag contents
+######
+item,quantity,bag,pocket,category
+
+# small sling bag
+usb-c cord,1,sling,side,electronics
+usb-c plug,1,sling,side,electronics
+extra wallet,1,sling,front,emergency
+firestarter kit,1,sling,inner,emergency
+bic lighter,2,sling,top,emergency
+
+# large 40L bag
+paracord,50ft,large,side,tools
+duct tape,10ft,large,inner,tools
+axe,1,large,main,tools
